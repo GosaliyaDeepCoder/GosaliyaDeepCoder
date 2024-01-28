@@ -16,7 +16,7 @@
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-64.png"/>
   </a>
 </p>
-<h3 align="center">Hi, I'm Deep from Canada, specializing in Cloud and DevOps. I excel in designing scalable cloud solutions and implementing efficient DevOps pipelines. Proficient in AWS, Azure, and Google Cloud, I use tools like Docker and Kubernetes for containerization. With a focus on infrastructure as code using Terraform, I enjoy automating deployment workflows. Let's connect if you're into optimizing cloud architecture and exploring the latest in DevOps.</h3>
+<h3 align="center">Hi, I'm Deep from Canada, Passionate  in Cloud and DevOps. I excel in designing scalable cloud solutions and implementing efficient DevOps pipelines. Proficient in AWS, Azure, and Google Cloud, I use tools like Docker and Kubernetes for containerization. With a focus on infrastructure as code using Terraform, I enjoy automating deployment workflows. Let's connect if you're into optimizing cloud architecture and exploring the latest in DevOps.</h3>
 <p align="center">
   <img style="display: inline-block;" alt="Coding" width="800" height="400" src="https://i.pinimg.com/originals/86/56/8d/86568d91236335604340fcc893087cdb.gif">
 </p>
@@ -37,8 +37,38 @@
 - 📝 I regularly write articles on [https://medium.com/@deepawsarchitect](https://medium.com/@deepawsarchitect)
 
 - 📫 How to reach me **deepgosaliya25@gmail.com**
-
-
+<h1>💻☕ About Me and My Interest</h1>
+```yaml
+name: Deep Gosaliya
+located_in: Ontario, Canada
+education:
+  [
+    "Self-Taught AWS, Azure, GCP, and DevOps",
+    "Post Graduate in Business and Information System Architecture",
+    "Bachelor's in Information System Architecture",
+  ]
+fields_of_interests:
+  [
+    "Cloud Native",
+    "DevOps",
+    "AI",
+    "AWS",
+    "Azure DevOps",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "IT Operation"
+    "Azure Fundamental Certified",
+    "Azure Administrator",
+    "Jenkins, Docker, Kubernetes",
+    "IaC Terraform",
+  ]
+  
+currently_learning: ["Docker, Kubernetes, and Azure Cloud"]
+2024 Goals: ["Create 10+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Reading", "Writing-articles", "Cricket", "Photoshoot", "Comedy"]
+```
 ### Blogs posts: https://medium.com/@deepawsarchitect/list/reading-list
 1. Understanding Build and Package Manager Tools in DevOps
 2. How to upload JAR files to Nexus Repository
