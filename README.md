@@ -93,4 +93,3 @@ hobbies: ["Reading", "Writing-articles", "Cricket", "Photoshoot", "Comedy"]
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gosaliyadeepcoder&theme=react&show_icons=true" alt="gosaliyadeepcoder" /></p>
 
-![Snake animation](https://github.com/gosaliyadeepcoder/gosaliyadeepcoder/blob/output/github-contribution-grid-snake.svg)
