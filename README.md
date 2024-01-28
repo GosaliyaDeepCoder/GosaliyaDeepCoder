@@ -4,12 +4,19 @@
 
 <h3 align="center">Hi, I'm Deep from Canada, specializing in Cloud and DevOps. I excel in designing scalable cloud solutions and implementing efficient DevOps pipelines. Proficient in AWS, Azure, and Google Cloud, I use tools like Docker and Kubernetes for containerization. With a focus on infrastructure as code using Terraform, I enjoy automating deployment workflows. Let's connect if you're into optimizing cloud architecture and exploring the latest in DevOps.</h3>
 
-<img align="center" alt="Coding" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif">
+<p style="text-align: center;">
+    <img align="center" alt="Coding" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif">
+</p>
 
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=gosaliyadeepcoder&label=Profile%20views&color=0e75b6&style=flat" alt="gosaliyadeepcoder" /> 
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gosaliyadeepcoder&label=Profile%20views&color=0e75b6&style=flat" alt="gosaliyadeepcoder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gosaliyadeepcoder" alt="gosaliyadeepcoder" /></a> </p>
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=gosaliyadeepcoder" alt="gosaliyadeepcoder" />
+    </a> 
+</p>
 
 - 🔭 I’m currently working on **Azure Cloud**
 
@@ -19,9 +26,15 @@
 
 - 📫 How to reach me **deepgosaliya25@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+### Blogs posts: https://medium.com/@deepawsarchitect/list/reading-list
+1. Understanding Build and Package Manager Tools in DevOps
+2. How to upload JAR files to Nexus Repository
+3. How To push and pull artifacts from a Nexus repository, specifically a Docker Host Repository
+4. Introduction to Jenkins Pipeline: SYNTAX
+5. Exploring GitHub Repositories: A Bash Script for Listing Users with Read Access
+6. Exploring PowerShell Commandlet Using Windows PowerShell and Windows PowerShell ISE
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
