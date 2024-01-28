@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![Header](./your-header-image-name.png)
 
 <h1 align="center">Hi 👋, I'm Deep Gosaliya</h1>
 
