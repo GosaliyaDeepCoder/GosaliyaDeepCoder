@@ -37,7 +37,9 @@
 - 📝 I regularly write articles on [https://medium.com/@deepawsarchitect](https://medium.com/@deepawsarchitect)
 
 - 📫 How to reach me **deepgosaliya25@gmail.com**
+
 <h1>💻☕ About Me and My Interest</h1>
+
 ```yaml
 name: Deep Gosaliya
 located_in: Ontario, Canada
