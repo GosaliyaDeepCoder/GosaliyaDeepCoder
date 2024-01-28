@@ -4,9 +4,9 @@
 
 <h3 align="center">Hi, I'm Deep from Canada, specializing in Cloud and DevOps. I excel in designing scalable cloud solutions and implementing efficient DevOps pipelines. Proficient in AWS, Azure, and Google Cloud, I use tools like Docker and Kubernetes for containerization. With a focus on infrastructure as code using Terraform, I enjoy automating deployment workflows. Let's connect if you're into optimizing cloud architecture and exploring the latest in DevOps.</h3>
 
-<p style="text-align: center;">
-    <img align="center" alt="Coding" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif">
-</p>
+<div style="text-align: center;">
+    <img style="display: inline-block;" alt="Coding" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif">
+</div>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=gosaliyadeepcoder&label=Profile%20views&color=0e75b6&style=flat" alt="gosaliyadeepcoder" /> 
